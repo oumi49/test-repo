@@ -1,6 +1,6 @@
 name: Schedule
 on:
-  schdule:
+  schedule:
     - cron: '*/15 * * * *'
 jobs:
   run:
